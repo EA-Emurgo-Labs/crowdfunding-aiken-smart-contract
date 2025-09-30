@@ -1,9 +1,9 @@
-# crowdfunding
+# crowdfunding-aiken-smart-contract
 
 ## 1. Compile contract
 
 ```sh
-cd crowdfunding
+cd crowdfunding-aiken-smart-contract
 aiken build -t verbose
 ```
 
@@ -12,7 +12,7 @@ aiken build -t verbose
 ### Install dependencies
 
 ```sh
-cd crowdfunding/scripts
+cd crowdfunding-aiken-smart-contract/scripts
 npm install
 ```
 
