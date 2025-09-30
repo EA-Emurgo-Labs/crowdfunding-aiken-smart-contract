@@ -21,7 +21,7 @@ npm install
 Create your own .env file and fill out all the variables
 
 ```sh
-cp .env.example .env
+cp .env.default .env
 ```
 
 BLOCKFROST_API_KEY: Please go to website https://blockfrost.io/ and create your own API key
